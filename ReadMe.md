@@ -10,6 +10,7 @@ For the user's protection, this software may only be run on computers that are e
 Violators will be possessed.
 
 Permission is hereby granted, free of charge, for students and schools with learning purposes obtaining a copy of the code and associated documentation files (the "Code"), to deal in the Code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute and/or sublicense the Code, and to permit persons to whom the Code is furnished to do so, subject to the following conditions:
+  
   0. If we meet some day, and you think
 this stuff is worth it, you can buy me a beer in return
   1. Acknowledge the original author by mentioning my name. Enjoy your journey of discovery and learning!
